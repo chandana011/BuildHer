@@ -1,2 +1,2 @@
 # BuildHer
-In this repo i added the codes for the given assignment
+In this repo I added the codes for the given assignment
