@@ -11,7 +11,7 @@ public class MajorityELements {
         List<Integer> result = new ArrayList<>();
         Map<Integer, Integer> countMap = new HashMap<>();
 
-        // Count occurrences of each element in the arraylist
+        // Count occurrences of each element in the array
         for (int num : nums) {
             countMap.put(num, countMap.getOrDefault(num, 0) + 1);
         }
